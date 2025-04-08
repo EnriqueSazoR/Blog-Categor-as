@@ -17,4 +17,4 @@ Este proyecto es una aplicación web para un blog sencillo, desarrollada con Dja
 # 🚀 Objetivo del proyecto:
 Este proyecto sirve como ejercicio práctico para aprender Django, desde la configuración inicial hasta la implementación de un CRUD básico (Crear, Leer, Actualizar, Eliminar), aplicando conceptos como modelos, vistas, URLs y plantillas.
 
-" 📌 Estado: En desarrollo
+# 📌 Estado: En desarrollo
