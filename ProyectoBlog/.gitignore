@@ -1,0 +1,9 @@
+
+# Archivos de Python
+__pycache__/
+
+# Base de datos SQLite
+db.sqlite3
+
+# Archivos temporales
+*.log
